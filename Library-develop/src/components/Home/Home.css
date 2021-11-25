@@ -1,0 +1,13 @@
+.home, h1{
+    color: black;
+}
+
+.img, img{
+    color: black;
+}
+
+.text p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: black;
+text-align: center;
+}
